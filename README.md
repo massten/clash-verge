@@ -1,8 +1,7 @@
 <h1 align="center">                                                                                      
-  <img src="./src/assets/image/logo.png" alt="Clash" width="128" />
-  <br>                                                                                      
+           <br>                                                                            
   Clash Verge
-  <br>                                                                                      
+                                                                                    
 </h1>                                                                                      
 
 <h3 align="center">                                                                                      
