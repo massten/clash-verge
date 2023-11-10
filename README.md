@@ -1,8 +1,4 @@
-<h1 align="center">                                                                                      
-           <br>                                                                            
-  Clash Verge
-                                                                                    
-</h1>                                                                                      
+<h1 align="center">Clash Verge</h1>                                                                                      
 
 <h3 align="center">                                                                                      
 A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
