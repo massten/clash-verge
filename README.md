@@ -12,7 +12,7 @@ A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="h
 ## Features
 
 - Full `clash` config supported, Partial `clash premium` config supported.
-- Profiles management and enhancement (by yaml and Javascript). [Doc](https://github.com/zzzgydi/clash-verge/wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
+- Profiles management and enhancement (by yaml and Javascript). [Doc](https://github.com/massten/clash-verge/wiki)
 - Simple UI and supports custom theme color.
 - Built-in support [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) core.
 - System proxy setting and guard.
@@ -20,14 +20,14 @@ A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="h
 
 ## Install
 
-Download from [release](https://github.com/zzzgydi/clash-verge/releases). Supports Windows x64, Linux x86_64 and macOS 11+
+Download from [release](https://github.com/massten/clash-verge/releases). Supports Windows x64, Linux x86_64 and macOS 11+
 
-- [Windows x64](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64_en-US.msi)
-- [macOS intel](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
-- [macOS arm](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg)
-- [Linux AppImage](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.AppImage)
-- [Linux deb](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb)
-- [Fedora Linux](https://github.com/zzzgydi/clash-verge/issues/352)
+- [Windows x64](https://github.com/massten/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64_en-US.msi)
+- [macOS intel](https://github.com/massten/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64.dmg)
+- [macOS arm](https://github.com/massten/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_aarch64.dmg)
+- [Linux AppImage](https://github.com/massten/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.AppImage)
+- [Linux deb](https://github.com/massten/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.deb)
+- [Fedora Linux](https://github.com/massten/clash-verge/issues/352)
 
 Or you can build it yourself. Supports Windows, Linux and macOS 10.15+
 
@@ -71,31 +71,6 @@ Or you can build it
 yarn build
 ```
 
-## Todos
-
-> This keng is a little big...
-
-## Screenshots
-
-<div align="center">
-  <img src="./docs/demo1.png" alt="demo1" width="32%" />
-  <img src="./docs/demo2.png" alt="demo2" width="32%" />
-  <img src="./docs/demo3.png" alt="demo3" width="32%" />
-  <img src="./docs/demo4.png" alt="demo4" width="32%" />
-  <img src="./docs/demo5.png" alt="demo5" width="32%" />
-  <img src="./docs/demo6.png" alt="demo6" width="32%" />
-</div>
-
-### Custom Theme
-
-<div align="center">
-  <img src="./docs/color1.png" alt="demo1" width="16%" />
-  <img src="./docs/color2.png" alt="demo2" width="16%" />
-  <img src="./docs/color3.png" alt="demo3" width="16%" />
-  <img src="./docs/color4.png" alt="demo4" width="16%" />
-  <img src="./docs/color5.png" alt="demo5" width="16%" />
-  <img src="./docs/color6.png" alt="demo6" width="16%" />
-</div>
 
 ## Disclaimer
 
